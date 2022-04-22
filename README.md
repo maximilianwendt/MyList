@@ -1,2 +1,2 @@
 # MyList
-Implementierung meiner eigenen Liste.
+Implementierung meiner eigenen Liste inklusive Bubblesort-Algorithmus und Zeitmessung.
