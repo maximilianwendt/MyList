@@ -1,2 +1,2 @@
 # MyList
-Implementierung meiner eigenen List
+Implementierung meiner eigenen Liste.
